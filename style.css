@@ -1,12 +1,10 @@
-body {
-  text-shadow: 1px 2px 3px 4px #000000;
-}
+
 h1 {
   color: #000000;
-  text-shadow: 10px 2px 3px 4px #c0c0c0;
+  text-shadow: 10px 2px 3px 4px #5BE60B;
 }
 div {
-  box-shadow: 10px 10px 10px #000000;
+  box-shadow: 10px 10px 10px #F70606;
   width: 300px;
   margin: 30px;
   border: 3px solid;
