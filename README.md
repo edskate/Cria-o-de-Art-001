@@ -14,6 +14,7 @@
 - Do you usually have dinner________homer or_____a restaurant?
 
 ```
+
 # Ingles words
 
 ```
@@ -29,6 +30,4 @@ Can help you
 How long
 in here
 gonna
-
-
 ```
