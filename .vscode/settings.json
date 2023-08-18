@@ -1,8 +1,12 @@
 {
   "cSpell.words": [
     "Complet",
+    "exercitationem",
+    "Fotos",
     "frase",
     "Inglês",
+    "Neque",
+    "ratione",
     "Shadown"
   ],
   "python.testing.unittestArgs": ["-v", "-s", ".", "-p", "*test.py"],
