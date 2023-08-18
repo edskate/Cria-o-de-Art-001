@@ -14,3 +14,21 @@
 - Do you usually have dinner________homer or_____a restaurant?
 
 ```
+# Ingles words
+
+```
+One 
+There
+your
+I get
+Honestly
+you say
+again
+wrong
+Can help you
+How long
+in here
+gonna
+
+
+```
